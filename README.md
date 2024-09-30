@@ -23,6 +23,7 @@ pip установка telebot python-telegram-бот
 2. Заменить `YOUR_BOT_TOKEN` в коде на реальный токен вашего Telegram-бота.
 
 3. Запустить скрипт:
+python bot.py
 
 ## Использование
 
